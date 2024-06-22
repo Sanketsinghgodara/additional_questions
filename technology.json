@@ -1,8 +1,7 @@
 [
-  {
-    "question": "What is your favorite programming language?"
-  },
-  {
-    "question": "How many years of experience do you have in programming?"
-  }
+  { "question": "What is your favorite programming language and why?" },
+  { "question": "How many years of experience do you have in software development?" },
+  { "question": "Which development tools do you use the most?" },
+  { "question": "Have you ever contributed to an open-source project? If yes, describe your contribution." },
+  { "question": "What is your preferred code editor or IDE?" }
 ]
