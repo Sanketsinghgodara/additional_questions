@@ -1,8 +1,7 @@
- [
-  {
-    "question": "What is your highest level of education?"
-  },
-  {
-    "question": "What was your major field of study?"
-  }
+[
+  { "question": "What is your highest level of education?" },
+  { "question": "What was your major or field of study?" },
+  { "question": "Have you taken any online courses? If yes, which ones?" },
+  { "question": "What is your preferred method of learning?" },
+  { "question": "Do you plan to pursue further education? If yes, in which field?" }
 ]
