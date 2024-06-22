@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Are you currently enrolled in any educational programs?",
+    "options": [
+      "Yes, full-time",
+      "Yes, part-time",
+      "No"
+    ]
+  },
+  {
+    "question": "How satisfied are you with your educational qualifications?",
+    "options": [
+      "Not satisfied",
+      "Neutral",
+      "Satisfied",
+      "Very satisfied"
+    ]
+  },
+  {
+    "question": "Have you completed any online courses or certifications?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  }
+]
