@@ -1,27 +1,8 @@
-[
+ [
   {
-    "question": "How many hours of sleep do you typically get per night?",
-    "options": [
-      "Less than 5 hours",
-      "5-7 hours",
-      "7-9 hours",
-      "More than 9 hours"
-    ]
+    "question": "How often do you exercise?"
   },
   {
-    "question": "How would you rate your overall physical fitness?",
-    "options": [
-      "Poor",
-      "Fair",
-      "Good",
-      "Excellent"
-    ]
-  },
-  {
-    "question": "Are you currently managing any chronic health conditions?",
-    "options": [
-      "Yes",
-      "No"
-    ]
+    "question": "Do you follow a specific diet?"
   }
 ]
