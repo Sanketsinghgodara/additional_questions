@@ -1,41 +1,8 @@
 [
   {
-    "question": "What programming languages are you proficient in?",
-    "options": [
-      "JavaScript",
-      "Python",
-      "Java",
-      "C#",
-      "Ruby",
-      "PHP",
-      "Swift",
-      "Go",
-      "Other"
-    ]
+    "question": "What is your favorite programming language?"
   },
   {
-    "question": "What frameworks or libraries do you use frequently?",
-    "options": [
-      "React",
-      "Angular",
-      "Vue.js",
-      "Express.js",
-      "Spring",
-      "Django",
-      "Flask",
-      "TensorFlow",
-      "Other"
-    ]
-  },
-  {
-    "question": "Do you have experience with cloud platforms?",
-    "options": [
-      "AWS",
-      "Azure",
-      "Google Cloud",
-      "IBM Cloud",
-      "DigitalOcean",
-      "Other"
-    ]
+    "question": "How many years of experience do you have in programming?"
   }
 ]
