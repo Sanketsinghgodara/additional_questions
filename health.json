@@ -1,8 +1,7 @@
- [
-  {
-    "question": "How often do you exercise?"
-  },
-  {
-    "question": "Do you follow a specific diet?"
-  }
+[
+  { "question": "How often do you exercise each week?" },
+  { "question": "Do you follow any specific diet plan? If yes, please describe." },
+  { "question": "How many hours of sleep do you get on average each night?" },
+  { "question": "Do you have any chronic health conditions? If yes, please specify." },
+  { "question": "What do you do to manage stress?" }
 ]
